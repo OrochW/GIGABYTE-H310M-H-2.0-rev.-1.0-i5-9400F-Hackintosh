@@ -4,7 +4,7 @@
 ## Specification
 | **Component** | **Model** |
 | ------------- | --------- |
-| CPU | I5 9400F |
+| CPU | I5 9400 |
 | Motherboard |GIGABYTE H310M H 2.0 |
 | RAM | 16GB (2 x 8GB) |
 | Audio Chipset | Realtek® ALC887 |
